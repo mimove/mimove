@@ -4,6 +4,8 @@
 ## A few facts about me
 
 - I'm a newbie to the world of Data Engineering and Data Science.
+
+- Currently studying a Master in Data at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
   
 - [PhD](https://repository.lboro.ac.uk/articles/thesis/A_coupled_LES_high-order_acoustic_method_for_jet_noise_analysis/8117927/1)  in Aerospace Engineering by [Loughborough University](<https://www.lboro.ac.uk/>) in the UK.
   
