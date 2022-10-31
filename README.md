@@ -30,7 +30,9 @@
 
 ---
 
-## My GitHub Stats 💻
+## My GitHub Stats <img hspace=5 align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/github.svg" width = 35px>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimove&hide=jupyter%20notebook&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
