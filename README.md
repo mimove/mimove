@@ -30,7 +30,7 @@
 
 ---
 
-## My GitHub Stats <img hspace=5 align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/github.svg" width = 35px>
+## My GitHub Stats <img align="center" src="https://img.icons8.com/plasticine/344/github.png" width = 55px>
 
 <br>
 
