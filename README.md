@@ -52,7 +52,7 @@
 
 
 
-[<img align="center" alt="codeSTACKr | LinkeIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="codeSTACKr | LinkeIn" width="55px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
 
 
 <br />
