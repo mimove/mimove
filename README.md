@@ -1,6 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, my name is Miguel[^1]
 
->Profile picture generated with [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)
 
 ## A few facts about me 👨‍💻
 
