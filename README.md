@@ -45,6 +45,12 @@
 
 <br>
 
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/mimove"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mimove&custom_title=Miguel's%20Contribution%20Graph&theme=merko" /></a>
+  <br/>
+
+
 ---
 
 
