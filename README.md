@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, my name is Miguel[^1]
+# <img src=".images/Hi.gif" width="30px"> Hello, my name is Miguel[^1]
 
 
 ## A few facts about me 👨‍💻
