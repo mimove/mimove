@@ -44,10 +44,10 @@
 
 
 <br>
-
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph#how-to-use -->
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  
+
    [![Miguel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mimove&theme=merko)](https://github.com/mimove/github-readme-activity-graph)
 
   <br/>
@@ -66,3 +66,5 @@
 <br />
 
 [^1]: Profile picture generated with [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5), minted as an NFT following the ERC-721 standard and deployed into the Goerli Testnet. [Link to contract](https://goerli.etherscan.io/tx/0x09ee2f1fc5864090a19c19d26a48ed68587a209c144deb9e30daefebd77f0257); [Link to OpenSea](https://testnets.opensea.io/assets/goerli/0xe154e1d863df4522e09ed0b7a48ce0ecb4782237/1)
+
+
