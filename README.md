@@ -24,6 +24,7 @@
   
 - [EDEM2022](https://github.com/mimove/EDEM2022): Notes and Excersices in several languages and programs taken at the Master in Big Data at [EDEM](https://edem.eu/en/get-to-know-edem/)
 
+- [DATAPROJECT1](https://github.com/mimove/DATAPROJECT1): A project in which NiFi, Python, PostreSQL, Google's API, Docker and Tableau were used to build and APP that shows the best areas of Valencia to live depending on the answers of users given in a questionaire.
 
 
 <br>
@@ -34,7 +35,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimove&hide=jupyter%20notebook&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimove&hide=jupyter,html%20notebook&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimove&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
