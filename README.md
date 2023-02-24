@@ -3,7 +3,7 @@
 
 ## A few facts about me 👨‍💻
 
-- I'm a newbie to the world of Data Engineering and Data Science.
+- Starting my career as Data Engineer at [GFT](https://www.gft.com)
 
 - Currently studying a Master in Data at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
   
@@ -25,6 +25,8 @@
 - [EDEM2022](https://github.com/mimove/EDEM2022): Notes and Excersices in several languages and programs taken at the Master in Big Data at [EDEM](https://edem.eu/en/get-to-know-edem/)
 
 - [DATAPROJECT1](https://github.com/mimove/DATAPROJECT1): A project in which NiFi, Python, PostreSQL, Google's API, Docker and Tableau were used to build and APP that shows the best areas of Valencia to live depending on the answers of users given in a questionaire.
+
+- [DATAPROJECT2](https://github.com/mimove/DATAPROJECT2) and [DATAPROJECT2_ONPREMISE](https://github.com/mimove/DATAPROJECT2_ONPREMISE): Implementing an E2E IoT solution for solar panels using PaaS tools from Google Cloud (DATAPROJECT2) and an OnPremise E2E using Kafka and Spark.
 
 
 <br>
