@@ -46,14 +46,7 @@
 [linkedin]: <https://www.linkedin.com/in/miguel-moratilla-vega/>
 
 
-<br>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph#how-to-use -->
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
 
-   [![Miguel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mimove&theme=merko)](https://github.com/mimove/github-readme-activity-graph)
-
-  <br/>
 
 
 ---
