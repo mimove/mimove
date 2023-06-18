@@ -9,7 +9,7 @@
   
 - [PhD](https://repository.lboro.ac.uk/articles/thesis/A_coupled_LES_high-order_acoustic_method_for_jet_noise_analysis/8117927/1)  in Aerospace Engineering at [Loughborough University](<https://www.lboro.ac.uk/>) in the UK.
   
-- 5+ years of experience in supercomputing running aeroacoustic simulations at [Rolls-Royce UTC](<https://www.lboro.ac.uk/research/rolls-royce-utc/>)
+- 5+ years of experience in supercomputing running aeroacoustic simulations at a [Rolls-Royce UTC](<https://www.lboro.ac.uk/research/rolls-royce-utc/>)
 
 
 <br>
