@@ -3,9 +3,9 @@
 
 ## A few facts about me 👨‍💻
 
-- Starting my career as Data Engineer at [GFT](https://www.gft.com)
+- Data Engineer at [GFT](https://www.gft.com)
 
-- Currently studying a Master in Data Eng. and Data Science at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
+- Master in Data Eng. and Data Science at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
   
 - [PhD](https://repository.lboro.ac.uk/articles/thesis/A_coupled_LES_high-order_acoustic_method_for_jet_noise_analysis/8117927/1)  in Aerospace Engineering at [Loughborough University](<https://www.lboro.ac.uk/>) in the UK.
   
