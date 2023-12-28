@@ -3,7 +3,7 @@
 
 ## A few facts about me 👨‍💻
 
-- Data Engineer at [GFT](https://www.gft.com)
+- Data Engineer at [Mercadona Tech](https://www.mercadonatech.es/en/)
 
 - Master in Data Eng. and Data Science at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
   
