@@ -38,7 +38,6 @@
 
 
 
-
 ---
 
 
@@ -52,5 +51,8 @@
 <br />
 
 [^1]: Profile picture generated with [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5), minted as an NFT following the ERC-721 standard and deployed into the Goerli Testnet. [Link to contract](https://goerli.etherscan.io/tx/0x09ee2f1fc5864090a19c19d26a48ed68587a209c144deb9e30daefebd77f0257); [Link to OpenSea](https://testnets.opensea.io/assets/goerli/0xe154e1d863df4522e09ed0b7a48ce0ecb4782237/1)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mimove)](https://github.com/mimove/)
+
 
 
