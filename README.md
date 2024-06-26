@@ -1,5 +1,7 @@
 # <img src=".images/Hi.gif" width="30px"> Hello, my name is Miguel[^1]
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mimove)](https://github.com/mimove/)
+
 
 ## A few facts about me 👨‍💻
 
@@ -11,7 +13,6 @@
   
 - 5+ years of experience in supercomputing running aeroacoustic simulations at a [Rolls-Royce UTC](<https://www.lboro.ac.uk/research/rolls-royce-utc/>)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mimove)](https://github.com/mimove/)
 
 
 <br>
