@@ -5,13 +5,13 @@
 
 ## A few facts about me 👨‍💻
 
-- Data Engineer at [Mercadona Tech](https://www.mercadonatech.es/en/)
+- Data Engineer at [<img src=".images/mercadona_logo.png" width ="140" style="vertical-align: middle;">](https://www.mercadonatech.es/en/)
 
-- Master in Data Eng. and Data Science at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
+- Master in Data Eng. and Data Science at [<img src=".images/edem_logo.png" width ="60" style="vertical-align: middle;">](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
   
-- [PhD](https://repository.lboro.ac.uk/articles/thesis/A_coupled_LES_high-order_acoustic_method_for_jet_noise_analysis/8117927/1)  in Aerospace Engineering at [Loughborough University](<https://www.lboro.ac.uk/>) in the UK.
+- [PhD](https://repository.lboro.ac.uk/articles/thesis/A_coupled_LES_high-order_acoustic_method_for_jet_noise_analysis/8117927/1)  in Aerospace Engineering at [<img src=".images/lboro_logo.png" width ="90" style="vertical-align: middle;">](<https://www.lboro.ac.uk/>) in the UK.
   
-- 5+ years of experience in supercomputing running aeroacoustic simulations at a [Rolls-Royce UTC](<https://www.lboro.ac.uk/research/rolls-royce-utc/>)
+- 5+ years of experience in supercomputing running aeroacoustic simulations at a [<img src=".images/rolls_logo.png" width ="140" style="vertical-align: middle;">](<https://www.lboro.ac.uk/research/rolls-royce-utc/>) University Technology Centre
 
 
 
